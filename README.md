@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KyleCK
+- 👋 Hi, I’m @AKA_0xKyle
 - 👀 I’m interested in quantitative trading, blockchain, web crawler, game designing.
 - 🌱 I’m currently learning Python, Solidity, JS.
