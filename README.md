@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KyleCK
+- 👀 I’m interested in quantitative trading, blockchain, web crawler, game designing.
+- 🌱 I’m currently learning Python, Solidity, JS.
